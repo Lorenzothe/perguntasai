@@ -24,9 +24,6 @@ footer{
     gap: 3rem;
     flex-wrap: wrap;
 }
-.contai {
-    padding: 0;
-}
 .cartao {
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
@@ -37,4 +34,13 @@ footer{
     background-color: var(--cart);
     text-align: center;
     height: 100%;
+}
+.cont-Cartao h3{
+    position: absolute;
+    text-align: left;
+    border: 1px solid var(--dest);
+    border-radius: 6rem;
+    padding: 0.6rem;
+    margin: 0.6rem;
+    font-size: 1.6vw;
 }
