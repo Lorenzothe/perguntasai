@@ -30,3 +30,8 @@ footer{
     height: 20rem;
     margin: 1rem;
 }
+.cont-Cartao {
+    background-color: var(--cart);
+    text-align: center;
+    height: 100%;
+}
