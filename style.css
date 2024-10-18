@@ -6,17 +6,17 @@
     --preto:#000000;
     --branco:#fff;
 }
-body{
-    background: var(--fundo);
-    margin: 0;
-    
-}
 footer{
     background-color:var(--dest) ;
     position: fixed;
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+body{
+    background: var(--fundo);
+    margin: 0;
+    
 }
 #container {
     padding: 1rem;
