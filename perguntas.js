@@ -25,8 +25,8 @@ criaCart(
 )
 criaCart(
     'Historia',
-    'quem matou hitler?',
-    'hitler'
+    'quem matou Getulio Vargas?',
+    'Getulio Vargas'
 )
 criaCart(
     'Química',
@@ -46,12 +46,12 @@ criaCart(
 criaCart(
     'Sociologia',
     'o que karl marks fez',
-    'o comunismo'
+    'falou sobre o comunismo'
 )
 criaCart(
     'Matematica',
-    'qual é o melhor número?',
-    '69'
+    'se joãozinho fumou 5 maconhas com a viviane, qual a massa do sol?',
+    '3,147249 homens pobres, a bicicleta esta a 217km/h e o sol esta a 4394km da Terra'
 )
 criaCart(
     'Matematica',
