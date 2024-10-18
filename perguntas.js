@@ -83,18 +83,3 @@ criaCart(
     'onde fic ao brasil',
     'fica na américa do sul'
 )
-criaCart(
-    '',
-    'pergunta',
-    'resposta'
-)
-criaCart(
-    'historia',
-    'pergunta',
-    'resposta'
-)
-criaCart(
-    'historia',
-    'pergunta',
-    'resposta'
-)
