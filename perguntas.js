@@ -1,85 +1,85 @@
 criaCart(
-    'matematica',
+    'Matematica',
     'quanto é 0 elevado 0?',
     'indefinido'
 )
 criaCart(
-    'biologia',
+    'Biologia',
     'quais os sangues existentes do sistema ABO',
     'A, B, AB, O'
 )
 criaCart(
-    'historia',
+    'Historia',
     'quando começou e terminou a ditadura',
     '1964-1985'
 )
 criaCart(
-    'Biologia',
-    'qual a media de tamanho de pênis no Brasil',
-    '14,2'
+    'Empreendedorismo',
+    'quem é o demônio na Terra?',
+    'Carmen'
 )
 criaCart(
-    'robotica',
+    'Robotica',
     'o que significa o pino VCC',
     ' fonte de alimentação do coletor do transistor'
 )
 criaCart(
-    'historia',
+    'Historia',
     'quem matou hitler?',
     'hitler'
 )
 criaCart(
-    'química',
+    'Química',
     'o que é alcano',
     'um hidrocarboneto aberto com ligação simples'
 )
 criaCart(
-    'geografia',
+    'Geografia',
     'qual capital do peru',
     'Lima'
 )
 criaCart(
-    'historia',
+    'Historia',
     'quem foi george washington',
     'foi o primeiro presidente dos USA'
 )
 criaCart(
-    'sociologia',
+    'Sociologia',
     'o que karl marks fez',
     'o comunismo'
 )
 criaCart(
-    'matematica',
+    'Matematica',
     'qual é o melhor número?',
     '69'
 )
 criaCart(
-    'matematica',
+    'Matematica',
     'quem descobriu o teorema de piatagoras',
     'pitagoras'
 )
 criaCart(
-    'matematica',
+    'Matematica',
     'cosceno é x ou y?',
     'x'
 )
 criaCart(
-    'quimica',
+    'Quimica',
     'o que é benzeno?',
     'uma cadeia de carbono fechada com ligações duplas intercaladas'
 )
 criaCart(
-    'quimica',
+    'Quimica',
     'como identificar fenol?',
     'analisando se contém um grupo hidroxila ligado a um anél aromático'
 )
 criaCart(
-    'história',
+    'História',
     'quem é a mãe de pitagoras',
     'Pythais'
 )
 criaCart(
-    'geografia',
+    'Geografia',
     'onde fica o brasil',
     'fica na américa do sul'
 )
