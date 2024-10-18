@@ -24,4 +24,7 @@ footer{
     gap: 3rem;
     flex-wrap: wrap;
 }
-.cartao
+.cartao {
+    flex-grow: 1;
+    flex-basis: calr(33% - 6rem);
+}
