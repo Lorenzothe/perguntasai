@@ -24,6 +24,9 @@ footer{
     gap: 3rem;
     flex-wrap: wrap;
 }
+.contai {
+    padding: 0;
+}
 .cartao {
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
