@@ -34,6 +34,8 @@ footer{
     background-color: var(--cart);
     text-align: center;
     height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 .cont-Cartao h3{
     position: absolute;
@@ -50,5 +52,5 @@ footer{
     font-size: 1.4vw;
 }
 .cartao:hover .cont-Cartao{
-    transform: rotateY('180deg');
+    transform: rotateY(180deg);
 }
