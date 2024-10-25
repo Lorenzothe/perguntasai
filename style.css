@@ -17,6 +17,10 @@ header {
     justify-content: space-around;
     padding: 1rem;
 }
+header a{
+    color: var(--preto);
+    text-decoration: none;
+}
 footer{
     background-color: var(--dest) ;
     position: fixed;
