@@ -13,5 +13,11 @@ function criaCart (Categoria, Pergunta, Resposta) {
     </div>
 </div>
     `
+    let respostaVis = false;
+    function viraCartao() {
+        respostaVis = !respostaVis;
+        cartao.classList.toggle('active', respostaVis);
+    }
+    cartao.addEventListener('click', viraCartao);
     container.appendChild(cartao);
 }
