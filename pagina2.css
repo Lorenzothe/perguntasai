@@ -41,10 +41,10 @@ footer{
     cursor: pointer;
 }
 .cartao:hover{
-    transform: scale(1.02);
+    transform: scale(1.01);
 }
 .resposta-cartao {
     background-color: var(--invcart);
     padding: 40px;
-    
+
 }
