@@ -37,5 +37,5 @@ footer{
     background-color: var(--cart);
     border: 1px solid var(--dest);
     padding: 40px;
-    box-shadow: 2px 2px 2px var(--preto);
+    box-shadow: 2px 2px 7px var(--branco);
 }
