@@ -83,3 +83,8 @@ criaCart(
     'onde fica o brasil',
     'fica na américa do sul'
 )
+criaCart(
+    'Geografia',
+    'onde fica a Coreia do Norte',
+    'fica ao sul da Coreia do Sul'
+)
