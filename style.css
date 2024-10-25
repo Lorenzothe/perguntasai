@@ -56,7 +56,10 @@ footer{
     transform: rotateY(180deg);
 }
 .pergunta-cartao, .resposta-cartao {
-    backface-visibility: hidden; 
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%; 
 }
 .resposta-cartao {
     transform: rotateY('180deg');
