@@ -33,3 +33,8 @@ footer{
     gap: 3rem;
     padding: 20px;
 }
+.cartao {
+    background-color: var(--cart);
+    border: 1px solid var(--dest);
+    padding: 40px;
+}
