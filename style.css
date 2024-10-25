@@ -52,7 +52,7 @@ footer{
     padding: 2rem;
     font-size: 1.4vw;
 }
-.cartao:hover .cont-Cartao{
+.cartao.active .cont-Cartao{
     transform: rotateY(180deg);
 }
 .pergunta-cartao, .resposta-cartao {
