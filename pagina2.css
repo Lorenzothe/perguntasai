@@ -43,3 +43,8 @@ footer{
 .cartao:hover{
     transform: scale(1.02);
 }
+.resposta-cartao {
+    background-color: var(--invcart);
+    padding: 40px;
+    
+}
