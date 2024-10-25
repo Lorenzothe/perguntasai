@@ -11,8 +11,11 @@ body{
     margin: 0;
     
 }
+header {
+    background-color: var(--dest);
+}
 footer{
-    background-color:var(--dest) ;
+    background-color: var(--dest) ;
     position: fixed;
     bottom: 0;
     width: 100%;
