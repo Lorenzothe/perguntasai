@@ -15,3 +15,6 @@ function criaCart (Categoria, Pergunta, Resposta) {
     `
     container.appendChild(cartao);
 }
+function mostrarResp(card) {
+    const Resposta = card.querySelector('.resposta-cartao');
+}
