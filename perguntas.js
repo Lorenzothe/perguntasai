@@ -51,7 +51,7 @@ criaCart(
 criaCart(
     'Matematica',
     'Se joãozinho fumou 5 maconhas com a viviane, qual a massa do sol?',
-    '3,147249 homens pobres, a bicicleta esta a 217km/h e o sol esta a 4394km da Terra'
+    '3,147249 homens pobres, a bicicleta esta a 217km/h, Murilo comeu 3 coxinhas e o sol esta a 4394km da Terra'
 )
 criaCart(
     'Matematica',
