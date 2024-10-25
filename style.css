@@ -63,4 +63,7 @@ footer{
 }
 .resposta-cartao {
     transform: rotateY('180deg');
+    background-color: var(--invcart);
+    color: var(--dest);
+    border: 2px solid var(--dest);
 }
