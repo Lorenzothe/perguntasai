@@ -88,3 +88,13 @@ criaCart(
     'Onde fica a Coreia do Norte',
     'Fica ao sul da Coreia do Sul'
 )
+criaCart(
+    'Matemática',
+    'quanto é a raiz de 144',
+    '12'
+)
+criaCart(
+    'Português',
+    'qual a diferença de um texto e um poema',
+    'textos usam paragrafos, poemas usam versos'
+)
