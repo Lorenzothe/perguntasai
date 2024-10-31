@@ -90,11 +90,11 @@ criaCart(
 )
 criaCart(
     'Matemática',
-    'quanto é a raiz de 144',
+    'Quanto é a raiz de 144',
     '12'
 )
 criaCart(
     'Português',
-    'qual a diferença de um texto e um poema',
-    'textos usam paragrafos, poemas usam versos'
+    'Qual a diferença de um texto e um poema',
+    'Textos usam paragrafos, poemas usam versos'
 )
